@@ -1,0 +1,1 @@
+Dentro desta pasta estão meus primeiros exercicios/projetos desenvolvidos na Trybe

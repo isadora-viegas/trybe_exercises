@@ -1,0 +1,1 @@
+Aqui vou disponibilizar o acesso à meus projetos desenvolvidos na Trybe. Projetos que envolverão o conhecimento de Front-end, Back-end, Ciência da Computação, entre outros. 
