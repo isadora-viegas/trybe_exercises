@@ -9,15 +9,10 @@
     <!-- Exercícios
 <ul>
 <li><a href="#Milene">Milene</a></li>
-<p>Muito simpática</p>
 <li><a href="#Henrique">Henrique</a></li>
-<p>Me ajudou bastante</p>
 <li><a href="#Renan">Renan</a></li>
-<p>Passou perrengues comigo haha</p> 
 <li><a href="#Esio">Esio</a></li>
-<p>1hr de conversa comigo hehe</p>
 <li><a href="#Lucas">Lucas</a></li>
-<p>Expert em programação</p>
 </ul>
 <p id="Milene">Muito simpática</p>
 <p id="Henrique">Me ajudou bastante</p>
