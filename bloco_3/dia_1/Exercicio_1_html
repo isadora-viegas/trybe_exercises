@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML</title>
+  </head>
+  <body>
+    <h1>Exercícios</h1>
+     Exercícios
+<ul>
+<li><a href="#Milene">Milene</a></li>
+<li><a href="#Henrique">Henrique</a></li>
+<li><a href="#Renan">Renan</a></li>
+<li><a href="#Esio">Esio</a></li>
+<li><a href="#Lucas">Lucas</a></li>
+</ul>
+<p id="Milene">Muito simpática</p>
+<p id="Henrique">Me ajudou bastante</p>
+<p id="Renan">Passou perrengues comigo haha</p>
+<p id="Esio">1hr de conversa comigo hehe</p>
+<p id ="Lucas">Expert em programação</p>
+<a href="https://www.google.com/" target="_blank"> Link google</a>
+<img src=https://www.google.com/search?q=cruzeiro&sxsrf=ALeKk022vai9M7QpTZranDh11bh753N5Zw:1612990339424&tbm=isch&source=iu&ictx=1&fir=wYC0wK_UdjetoM%252CNXd6GRw1skDgGM%252C%252Fm%252F019m60&vet=1&usg=AI4_-kR216LT89vswMxsCyB37TClv29B0A&sa=X&ved=2ahUKEwi19tOhmeDuAhUJJrkGHZykBPYQ_B16BAhNEAE#imgrc=wYC0wK_UdjetoM
+<img src="trybe_png"
+  </body>
+</html>
